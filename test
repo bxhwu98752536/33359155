@@ -1,3 +1,4 @@
+test.fetch();
 } finally {
 BufferedWriter out = null;
 props.load(fs);
