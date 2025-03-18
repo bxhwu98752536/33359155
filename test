@@ -1,3 +1,4 @@
+test.init();
 ResultSet rs = ps.executeQuery();
 props.load(fs);
 test.init();
