@@ -1,4 +1,5 @@
 if (out != null) {
+if (out != null) {
 // do the thing you do
 public class OracleJdbcTest
 test.init();
